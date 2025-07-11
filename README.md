@@ -40,9 +40,16 @@ This project was created by **Taiwo Samson**, a 3MTT cybersecurity student, for 
 
 ---
 
-## 📷 Screenshot
+## 📷 Screenshots
 
-> _Add a screenshot here later (optional)._
+Here’s what the dashboard looks like:
+
+### 🟦 Timeline View
+![Timeline](assets/Screenshot_2025-07-11_08_06_23.png)
+
+### 📋 Event Table View
+![Event Table](assets/Screenshot_2025-07-11_08_06_32.png)
+
 
 ---
 
