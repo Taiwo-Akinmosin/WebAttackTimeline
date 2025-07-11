@@ -12,17 +12,32 @@ This is a simple and educational dashboard that shows how a real-life web applic
 - JSON (to store the attack stages)
 
 ---
+## 🤖 AI Touch – Threat Detection
 
-## 📖 What This Project Does
+An AI logic layer is built into the app to **automatically label each attack step** with a risk score using simple NLP rules.
 
-This dashboard helps users **visualize a simulated attack** on a website. It shows each stage an attacker follows, such as:
+For example:
+- If the detail mentions “SQL”, it flags as **High Threat**
+- If it includes “upload”, it flags as **Medium**
+- Others default to **Low**
 
-1. **Phishing Email** – Sends fake login link to the victim  
-2. **SQL Injection** – Attacker extracts usernames and passwords  
-3. **Login as Victim** – Attacker logs in with stolen credentials  
-4. **File Upload** – Attacker uploads a malicious file (web shell)  
-5. **Remote Shell** – Gets access to the web server  
-6. **Privilege Escalation** – Gains full control (root access)
+This makes the dashboard smarter and more insightful — especially for beginners and incident responders.
+
+
+## 🧠 What This Project Does
+
+This dashboard simulates how a web application gets hacked in real life — stage by stage — using timeline visualization.
+
+It includes an **AI-powered threat classifier** that detects and labels each event with a **threat level** (High, Medium, Low) based on the log description.
+
+### ✅ Attack Stages Visualized:
+1. Phishing Email – Fake login page to steal credentials  
+2. SQL Injection – Extract usernames and passwords from database  
+3. Login as Victim – Attacker logs in with stolen data  
+4. File Upload – Uploads a malicious file (web shell)  
+5. Remote Shell – Gains shell access to server  
+6. Privilege Escalation – Gains root access using system weakness
+
 
 Each step is shown on a **colorful timeline**, so beginners can easily follow the attack flow.
 
