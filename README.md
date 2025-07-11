@@ -57,13 +57,22 @@ This project was created by **Taiwo Samson**, a 3MTT cybersecurity student, for 
 
 ## 📷 Screenshots
 
-Here’s what the dashboard looks like:
+## 📷 Screenshots
 
-### 🟦 Timeline View
-![Timeline](assets/Screenshot_2025-07-11_08_06_23.png)
+Here’s what the AI-powered dashboard looks like at different stages:
 
-### 📋 Event Table View
-![Event Table](assets/Screenshot_2025-07-11_08_06_32.png)
+### 🟦 Screenshot 1: Web Attack Progression
+![Web Attack Progression](assets/Screenshot_2025-07-11_09_09_03.png)
+
+---
+
+### 📊 Screenshot 2: Event Breakdown with AI Insight
+![AI Event Table](assets/Screenshot_2025-07-11_09_09_28.png)
+
+---
+
+### 📋 Screenshot 3: Event Breakdown (Raw Timeline Data)
+![Basic Event Table](Screenshot_2025-07-11_09_09_33.png)
 
 
 ---
