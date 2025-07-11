@@ -57,8 +57,6 @@ This project was created by **Taiwo Samson**, a 3MTT cybersecurity student, for 
 
 ## 📷 Screenshots
 
-## 📷 Screenshots
-
 Here’s what the AI-powered dashboard looks like at different stages:
 
 ### 🟦 Screenshot 1: Web Attack Progression
