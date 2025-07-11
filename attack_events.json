@@ -1,0 +1,38 @@
+[
+  {
+    "start": "2025-07-10 09:00",
+    "end": "2025-07-10 09:05",
+    "task": "Phishing Email",
+    "detail": "User clicked fake login link"
+  },
+  {
+    "start": "2025-07-10 09:06",
+    "end": "2025-07-10 09:10",
+    "task": "SQL Injection",
+    "detail": "Attacker submitted SQL payload"
+  },
+  {
+    "start": "2025-07-10 09:11",
+    "end": "2025-07-10 09:15",
+    "task": "Login as Victim",
+    "detail": "Extracted credentials via SQLi"
+  },
+  {
+    "start": "2025-07-10 09:16",
+    "end": "2025-07-10 09:20",
+    "task": "File Upload",
+    "detail": "Uploaded web shell via vulnerable form"
+  },
+  {
+    "start": "2025-07-10 09:21",
+    "end": "2025-07-10 09:25",
+    "task": "Remote Shell",
+    "detail": "Executed reverse shell"
+  },
+  {
+    "start": "2025-07-10 09:26",
+    "end": "2025-07-10 09:30",
+    "task": "Privilege Escalation",
+    "detail": "Escaped restricted shell using sudo vim"
+  }
+]
