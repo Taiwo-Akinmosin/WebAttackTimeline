@@ -70,7 +70,7 @@ Here’s what the AI-powered dashboard looks like at different stages:
 ---
 
 ### 📋 Screenshot 3: Event Breakdown (Raw Timeline Data)
-![Basic Event Table](Screenshot_2025-07-11_09_09_33.png)
+![Basic Event Table](assets/Screenshot_2025-07-11_09_09_33.png)
 
 
 ---
